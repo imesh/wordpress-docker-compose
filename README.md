@@ -17,5 +17,8 @@ This Docker Compose template includes latest wordpress Docker image and MySQL 5.
   http://localhost:8000/
   ````
 
+## Credits
+Thanks to Docker Documentation for providing the following [Wordpress, MySQL Docker Compose Template](https://docs.docker.com/compose/wordpress/).
+
 ## License
 Licensed under Apache 2.0
