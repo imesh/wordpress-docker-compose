@@ -1,4 +1,4 @@
-# Wordpress Docker Compose with MySQL
+# Wordpress Docker Compose with Persistence
 
 This Docker Compose template includes latest wordpress Docker image and MySQL 5.7 image including volume mounts for preserving MySQL data directory and Wordpress content directory.
 
